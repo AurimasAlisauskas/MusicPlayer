@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Music Box</string>
+    <string name="top_image">Top Image</string>
+    <string name="song_name">Sunflower</string>
+    <string name="divider">Divider</string>
+    <string name="song_arthist">Post Malone</string>
+    <string name="left_time"></string>
+    <string name="right_time"></string>
+    <string name="next_button"></string>
+    <string name="play_button"></string>
+    <string name="prev_button"></string>
+</resources>
